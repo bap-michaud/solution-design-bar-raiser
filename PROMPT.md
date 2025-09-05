@@ -98,7 +98,9 @@ Use ❌ when something is missing, unclear or incomplete
 
 Use ✅ when expectation are met
 
-Provide your feedback as a concise, bullet-pointed list of actionable tasks, grouped by section. Use the following format:Executive Summary
+Provide your feedback as a concise, bullet-pointed list of actionable tasks, grouped by section. Use the following format:
+
+### Executive Summary
 
 ❌ Missing estimated operational cost – please provide a rough monthly estimate.
 
